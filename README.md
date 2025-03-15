@@ -9,9 +9,11 @@ Welcome to Phage Bioinformatics Training! This repository was created by MicroHu
 5. Genome assembly
 6. Analysis of phage termini
 7. Phage taxonomy and annotation
-8. Virus Intergenomic Distance Calculator (VIRIDIC) analysis
-9. Phylogenetic analysis
+8. Phage lifecycle prediction
+9. Virus Intergenomic Distance Calculator (VIRIDIC) analysis
+10. Phylogenetic analysis
 
+## Learning Outcomes
 
 ### Course Instructors
 

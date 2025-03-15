@@ -24,6 +24,28 @@ There are **four main mechanisms** by which phages recognize and package their D
 
 ## Computational Practical
 
+### Step 1: Create a directory for your analysis and cd into it
+```
+mkdir PhageTermini_analysis
+cd PhageTermini_analysis
+```
+### Step 2: Download PhageTerm software
+```
+wget https://gitlab.pasteur.fr/vlegrand/ptv/-/archive/py3_release_1_light/ptv-py3_release_1_light.tar.gz
+```
+### Step 2: Extract the dowloaded software file
+```
+tar -xvf ptv-py3_release_1_light.tar.gz
+```
+### Step 3: Create conda environment from the `.yml` file
+```
+conda create -f ptv-py3_release_1_light/PhageTerm_env_py3.yml
+```
+### Step 4: Activate the conda environemnt
+```
+conda activate PhageTerm_env_py3
+```
+
 ### Download test datasets
 ```
 wget test_data.tar https://github.com/ckigenk/Phage-Bioinformatics-Training/raw/refs/heads/main/PhageTerm/test_data.tar

@@ -11,3 +11,14 @@ Welcome to Phage Bioinformatics Training! This repository was created by MicroHu
 7. Phage taxonomy and annotation
 8. Virus Intergenomic Distance Calculator (VIRIDIC) analysis
 9. Phylogenetic analysis
+
+## Contacts
+### Trainers
+
+[Collins Kigen](ckigen.ck@gmail.com)
+
+[Vanessa Natasha]()
+
+[James Wachira]()
+
+[Meshack Tweya]()

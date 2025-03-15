@@ -1,5 +1,5 @@
 # Phage-bioinformatics-training
-Welcome to Phage Bioinformatics Training! This repository was created by MicroHub Kericho, WRAIR-Africa
+Welcome to Phage Bioinformatics Training! This repository was created by MicroHub Kericho, WRAIR-Africa for training on phage genomics and bioinformatics to students and scientists involved in bacteriophage research
 
 ## Topics
 1. Introduction to linux and UNIX command line
@@ -12,13 +12,12 @@ Welcome to Phage Bioinformatics Training! This repository was created by MicroHu
 8. Virus Intergenomic Distance Calculator (VIRIDIC) analysis
 9. Phylogenetic analysis
 
+
+### Course Instructors
+
+* [Collins Kigen](https://www.linkedin.com/in/collins-kigen-67b74910a/) Head of Genomics and Bioinformatics, MicroHub Kericho, KEMRI/WRAIR-Africa
+* [Vanessa Natasha](https://www.linkedin.com/in/vanessa-natasha-5156b4220/) Research Scientist, MicroHub Kericho, KEMRI/WRAIR-Africa
+* [James Wachira](https://www.linkedin.com/in/james-wachirah-3000/) Research Scientist, MicroHub Kericho, KEMRI/WRAIR-Africa
+* [Meshack Tweya](https://www.linkedin.com/in/meshack-tweya-22b882112/) PhD Fellow, MicroHub Kericho, KEMRI/WRAIR-Africa. Lecturer, Kisii university.
 ## Contacts
-### Trainers
-
-[Collins Kigen](mailto:ckigen.ck@gmail.com)
-
-[Vanessa Natasha](mailto:adochynat@gmail.com)
-
-[James Wachira](mailto:wachiramuturi18@gmail.com)
-
-[Meshack Tweya](mailto:meshacktweya2@gmail.com)
+[ckigen.ck@gmail.com](mailto:ckigen.ck@gmail.com)

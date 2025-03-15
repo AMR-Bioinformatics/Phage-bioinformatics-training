@@ -15,10 +15,10 @@ Welcome to Phage Bioinformatics Training! This repository was created by MicroHu
 ## Contacts
 ### Trainers
 
-[Collins Kigen](ckigen.ck@gmail.com)
+[Collins Kigen](mailto:ckigen.ck@gmail.com)
 
-[Vanessa Natasha]()
+[Vanessa Natasha](mailto:adochynat@gmail.com)
 
-[James Wachira]()
+[James Wachira](mailto:wachiramuturi18@gmail.com)
 
-[Meshack Tweya]()
+[Meshack Tweya](mailto:meshacktweya2@gmail.com)
